@@ -289,3 +289,8 @@ Para buscar la hoja de datos, se escribe "74LS08 datasheet" y se prefiere la web
 - Hoja de datos del 74LS08: pines, alimentación (14 y 7) y función.
 
 ---
+
+## Indice
+<p align="center">
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
+</p>
