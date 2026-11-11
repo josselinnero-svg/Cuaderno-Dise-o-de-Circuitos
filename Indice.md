@@ -1,20 +1,40 @@
 # Diseño de Circuitos · Unidad 1: Lógica combinacional con diseño clásico
 
-Resumen didáctico semana a semana (Semanas 1 a 4).
+  
 
-Resultado de aprendizaje R1: diseñar e implementar circuitos combinacionales básicos con técnicas de diseño clásico.
+<div align="center">
+ <img width="2362" height="795" alt="image" src="https://github.com/user-attachments/assets/3edf0cac-3a44-42d9-bd6b-73f12f4eb74b" />
 
-> Nota sobre las imágenes: las referencias del tipo `![...](img/archivo.png)` son marcadores. Exporta la diapositiva indicada como imagen y guárdala en la carpeta img/. Cada esquema clave también tiene su versión en ASCII para que el README se entienda sin imágenes.
+  # 🏛️ Universidad Nacional de Loja
+  
+  ## Carrera: Ingeniería en Ciencias de la Computación
+  **Ciclo:** 2°do Ciclo "A" 
 
-## Índice
+  ---
 
-1. [Semana 1: Sistemas numéricos, códigos y compuertas](#semana-1-sistemas-numéricos-códigos-y-compuertas)
-2. [Semana 2: Álgebra de Boole y formas canónicas](#semana-2-álgebra-de-boole-y-formas-canónicas)
-3. [Semana 3: Mapas de Karnaugh, indiferentes y NAND/NOR](#semana-3-mapas-de-karnaugh-indiferentes-y-nandnor)
-4. [Semana 4: Circuitos aritméticos](#semana-4-circuitos-aritméticos)
-5. [Mapa conceptual del bloque](#mapa-conceptual-del-bloque)
+  👤 **Estudiante:** Josselin Estefania Nero Fernandez  
 
----
+  👩‍🏫 **Docente:** Ing. Luis Dario Sinche Cueva 
+  
+  ---
+
+  📅 **Periodo:** Septiembre - Febrero 2027 • 📆 **Fecha:** 11 de Noviembre de 2026
+</div>
+
+## Portafolio 
+
+<div align="center">
+
+| Cuaderno | Enlace al Contenido |
+| :--- | :---: |
+| Semana 1 🍄 | [**Ir a Semana 1**](Semana1.md) |
+| Semana 2 🐚 | [**Ir a Semana 2**](Semana2.md) |
+| Semana 3 🐧 | [**Ir a Semana 3**](Semana3.md) |
+| Semana 4 🐣 | [**Ir a Semana 4**](Semana4.md) |
+
+</div>
+
+## 🤖 Declaración de Uso de Inteligencia Artificial (IA)
 
 # Mapa conceptual del bloque
 
