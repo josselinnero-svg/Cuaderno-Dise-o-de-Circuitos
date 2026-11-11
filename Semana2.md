@@ -2,8 +2,6 @@
 
 ## 2.1 Un circuito y una expresión son lo mismo
 
-![Circuito AND-OR con inversor: Y = A·B + C'](img/s2_circuito_expresion.png)
-
 | Circuito | Expresión |
 |---|---|
 | Cable de entrada | Variable (A, B, C) |
@@ -68,8 +66,6 @@ $$(A+B)(A+C) = AA + AC + AB + BC = A + AC + AB + BC = A(1 + C + B) + BC = A + BC
 Se usaron la distributiva, la idempotencia ($AA = A$), el factor común y el elemento nulo ($1 + \ldots = 1$).
 
 ## 2.5 Leyes de De Morgan
-
-![Leyes de De Morgan con compuertas](img/s2_de_morgan.png)
 
 $$(A \cdot B)' = A' + B' \qquad (A + B)' = A' \cdot B'$$
 
@@ -180,8 +176,6 @@ $$= A + B \quad \text{(absorción: } A + A(B'C) = A \text{ aplicada a } A + AB'C
 Se pasó de 3 términos (5 literales) a una sola OR de 2 entradas. Se comprueba con la fila A=0, B=0, C=1: original 0 + 0 + 0 = 0, simplificada 0 + 0 = 0.
 
 ### Costo en circuitos integrados
-
-![Alarma: versión canónica vs simplificada](img/s2_alarma_costo.png)
 
 | Versión | CI usados | Total |
 |---|---|---|
