@@ -20,7 +20,6 @@ Si dos minitérminos difieren en una sola variable, esa variable desaparece.
 
 ## 3.2 ¿Por qué el orden 00, 01, 11, 10? Código Gray
 
-![Binario vs Gray](img/s3_gray_vs_binario.png)
 
 En el binario natural 01 a 10 cambia 2 bits. En Gray cada celda es vecina lógica de la siguiente (cambia un solo bit), y la última también es vecina de la primera.
 
@@ -46,7 +45,6 @@ En el binario natural 01 a 10 cambia 2 bits. En Gray cada celda es vecina lógic
 3. **Lo más grande posible:** grupos grandes dan términos más cortos.
 4. **El mapa se enrolla:** los bordes opuestos y las esquinas son vecinos.
 
-![Agrupaciones válidas y no válidas](img/s3_reglas_agrupar.png)
 
 Ejemplo no válido: un grupo de 3 en forma de L.
 
@@ -81,9 +79,7 @@ $$F = C' + AB'$$
 
 Filas AB y columnas CD, ambas en código Gray.
 
-**Bordes y esquinas también son vecinos.** Imagina el mapa enrollado como un toroide: el borde superior toca al inferior y el izquierdo al derecho. Las 4 esquinas (m0, m2, m8, m10) forman un grupo con B = 0 y D = 0, es decir $B'D'$.
-
-![Mapa de 4 variables: las 4 esquinas](img/s3_esquinas.png)
+**Bordes y esquinas también son vecinos.** El mapa enrollado como un toroide: el borde superior toca al inferior y el izquierdo al derecho. Las 4 esquinas (m0, m2, m8, m10) forman un grupo con B = 0 y D = 0, es decir $B'D'$.
 
 ## 3.6 Implicantes primos y esenciales
 
@@ -103,7 +99,6 @@ Solución mínima = primos esenciales + los primos mínimos necesarios para cubr
 
 ## 3.8 Ejemplo guiado: $F = \Sigma m(0,1,2,5,8,9,10)$
 
-![Mapa de Karnaugh con tres grupos](img/s3_ejemplo_guiado.png)
 
 ```text
   AB \ CD | 00 | 01 | 11 | 10
@@ -167,7 +162,7 @@ Notación: $F = \Sigma m(\text{minitérminos}) + d(\text{indiferentes})$.
 
 $$F = \Sigma m(5,6,7,8,9) + d(10,11,12,13,14,15)$$
 
-![Mapa con y sin usar las X](img/s3_indiferentes_bcd.png)
+
 
 ```text
   Sin usar las X                 Con las X
