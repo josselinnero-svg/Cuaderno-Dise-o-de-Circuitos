@@ -118,7 +118,6 @@ Procedimiento: (1) tabla de verdad contando los unos, (2) K-map (agrupar, y si s
 
 ## 4.6 Sumador de 4 bits en cadena (ripple carry)
 
-![Cuatro sumadores completos en cadena](img/s4_ripple_carry.png)
 
 ```text
         A3 B3        A2 B2        A1 B1        A0 B0
