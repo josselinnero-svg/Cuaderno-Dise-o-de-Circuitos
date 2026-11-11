@@ -292,5 +292,5 @@ Para buscar la hoja de datos, se escribe "74LS08 datasheet" y se prefiere la web
 
 ## Indice
 <p align="center">
-*<strong><a href="Índice.md">ÍNDICE</a></strong>*
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
 </p>
