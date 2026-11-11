@@ -10,7 +10,6 @@ Un transistor funciona como un interruptor controlado por voltaje.
 
 **Analogía:** es como distinguir entre luz apagada y luz encendida desde lejos. Aunque haya neblina (ruido), se distingue bien. Distinguir diez niveles de brillo sería mucho más difícil.
 
-![Interruptor abierto = 0, cerrado = 1](img/s1_interruptor_0_1.png)
 
 ## 1.2 Un "1" no es un voltaje exacto: es un rango (familia 74LS)
 
@@ -46,7 +45,6 @@ Entre 0.8 V y 2.0 V está la zona indefinida: el chip no garantiza nada y puede 
 
 **Ejemplo de falla:** sale un 0 de 0.5 V, un motor cercano induce 0.4 V de ruido, llegan 0.9 V (zona indefinida) y el resultado es un error.
 
-![Niveles de voltaje y márgenes de ruido 74LS](img/s1_margen_ruido.png)
 
 ## 1.3 Sistema posicional
 
@@ -190,7 +188,6 @@ Respuesta a la pregunta de activación: el celular guarda la "A" como 65 = 01000
 
 ## 1.8 Las 7 compuertas lógicas
 
-![NOT, AND, OR con sus tablas de verdad](img/s1_compuertas_basicas.png)
 
 | Compuerta | Idea en palabras | Expresión |
 |---|---|---|
@@ -220,8 +217,6 @@ NOT: 0 pasa a 1 y 1 pasa a 0.
 - **XOR** es la luz de una escalera con dos interruptores (abajo y arriba): cambia cada vez que mueves cualquiera de los dos.
 
 El círculo en la salida significa "negado". Con solo NAND (o solo NOR) se puede construir cualquier circuito, y esto se aprovecha en la Semana 3.
-
-![Normas ANSI/IEEE (formas) e IEC (rectángulos)](img/s1_normas_ansi_iec.png)
 
 Hay dos normas para dibujar la misma compuerta: ANSI/IEEE (formas distintivas) e IEC (rectángulos con símbolo). En el curso se usa ANSI. Si el simulador muestra rectángulos, se cambia en sus opciones.
 
