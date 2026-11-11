@@ -271,3 +271,7 @@ Resultado: 1000 = 8.
 
 ---
 
+## Indice
+<p align="center">
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
+</p>
