@@ -207,3 +207,9 @@ Entregable: tabla, $\Sigma m$ y $\Pi M$, SOP canónica, versión simplificada, y
 - Simplificar es elegir por costo, y el álgebra no garantiza el mínimo.
 
 ---
+
+
+## Indice
+<p align="center">
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
+</p>
