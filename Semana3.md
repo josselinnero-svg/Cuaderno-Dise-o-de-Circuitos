@@ -249,3 +249,9 @@ El ahorro vino de las X. La NAND no agrega chips y deja una sola familia en el i
 - **Costo:** se compara en literales y en chips, y el mínimo algebraico no siempre es el más barato.
 
 ---
+
+
+## Indice
+<p align="center">
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
+</p>
